@@ -2,4 +2,4 @@
 first repository
 #Hola a todos! Bienvenidos.
 
-# Print(Todo acaba de comenzar)
+# Print: Todo acaba de comenzar!
